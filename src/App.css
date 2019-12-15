@@ -1,0 +1,87 @@
+
+.main-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  width: 100%;
+  max-width: 629px;
+  height: 546px;
+  margin: 0 auto 160px;
+  background: url('./img/logo.png') no-repeat center;
+  background-size: 90%;
+}
+
+.title {
+  display: inline-block;
+  font-size: 50px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #fff;
+  background-color: #ff4f12;
+  padding: 10px 20px 5px;
+}
+
+.contest-name {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 28px;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+}
+
+.prize-name {
+  letter-spacing: 1px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+  width: 100%;
+}
+
+.nick {
+  font-size: 20px;
+  color: #bf87ff;
+  width: 100%;
+  margin-bottom: 7px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  padding: 40px 0 70px;
+  border-top: 1px solid #fff;
+}
+.copyright {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+  opacity: 0.6;
+  padding-bottom: 20px;
+}
+.social-icon {
+  text-decoration: none;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  margin-right: 8px;
+  border-radius: 5px;
+}
+
+.vk {
+  background: #616670 url('./img/vk.png') no-repeat center;
+}
+
+.twitch {
+  background: #616670 url('./img/twitch.png') no-repeat center;
+}
+
+.rules {
+  font-size: 18px;
+  font-weight: 500;
+  color: #bf87ff;
+}
