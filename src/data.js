@@ -4,7 +4,7 @@ export const contestData = [
         prizes: 
         [
         {
-            prizeName: "30 клавиатур A4Tech Bloody B314",
+            prizeName: "Клавиатура A4Tech Bloody B314",
             winners: ['Abyss_Wat4ers','Hagell','haimeyo','helmars','kellan6l','oxotnik_na_naturalov','redjenny27','shabbymember','SnowInHellq','tayswiftys13','7kedaddle','a_mne_norm','controlemotion','cova66','daniil337p','Devywka_Valerianka','dreamon679','fireseffect','itByte','Kwei1','Lemko505','lux_fray','Majerido','morgan008','mrkitgreyson','myyjasanoja','Neamneam','NightRidge','NIKZlo','Odeyalko200x220']
         }
     ]
@@ -12,14 +12,14 @@ export const contestData = [
     {
         contestName: "Конкурс #2",
         prizes: [{
-            prizeName: "МК 11",
+            prizeName: "Mortal Kombat 11",
             winners: ['Grand_Ji','kit_deck3r','valerka_nt','alichant','crzfml','danilkogood','dezturbo','gatarelub','justvinar','kasssl28','KILLER_Tank','matyshka12','muxaspb89','only1btw','redjenny27','splattiik','TelRoad','toxic_j12','itByte','ivan_roflan','LeaFaber','Limvir','ManateeInBandana','Moondegs','o_my_god_','oxotnik_na_naturalov','peepoSprint','RockAngel444','x345','ignor23']
         }]
     },
     {
         contestName: "Конкурс #3",
         prizes: [{
-            prizeName: "Футболки с автографами",
+            prizeName: "Футболка с автографами",
             winners: ['caxp_caxp','girl_loves_olyashaa','valerka_nt','9999999999acid999999999','alichant']
         }]
     },
@@ -33,31 +33,31 @@ export const contestData = [
     {
         contestName: "Конкурс #5",
         prizes: [{
-            prizeName: "15 игрушечных лам от Epic Games",
+            prizeName: "Игрушечные ламы Fortnite от Epic Games",
             winners: ['kit_deck3r','Nick_TIRONE','son4l','tat18','Eldrig','MrDarkWlastelin','kellan6l','fluttyhk','jackyjenya','LOLKEK1579','obi_wan_hinoben','whatjusthappened','redjenny27','Khoroshiy_chelovek','frayz3017']
         }]
     },
     {
         contestName: "Конкурс #6 - ТАНЦЫ",
         prizes: [{
-            prizeName: "",
+            prizeName: "Худи Fortnite от Epic Games",
             winners: ['https://vk.com/sergeykrast','https://vk.com/minerfoxik']
         }]
     },
     {
         contestName: "Конкурс #7",
         prizes: [{
-            prizeName: "5 Худи",
+            prizeName: "Худи Fortnite от Epic Games",
             winners: ['0_0sanchez','affatograf','alfayurez','cherrydwenn','CM0pk']
         },{
-            prizeName: "15 игрушечных лам от Epic Games.",
+            prizeName: "Игрушечные ламы Fortnite от Epic Games",
             winners: ['DaddyPanda93','egnaio','FaLaMyRTV','Nikitime','PahomChik0','a_mne_norm','Abyss_Wat4ers','Aggressive04','ah1mas','alexkushqq','boylerrr','ConstaFun','darkseermaksim','DerzkiyKote','dez1us']
         }]
     },
     {
         contestName: "Конкурс #8",
         prizes: [{
-            prizeName: "RDR 2",
+            prizeName: "Red Dead Redemption 2",
             winners: ['alfayurez','alichant','beststreamerintheworld','Crab_gaming','Eldrig','elnar88','karmic_pantheon','kasssl28','kit_deck3r','Nick_TIRONE']
         },{
             prizeName: "Промокоды на месяц бесплатного пользования тарифом Игровой от Ростелеком",
@@ -74,24 +74,24 @@ export const contestData = [
     {
         contestName: "Конкурс #10",
         prizes: [{
-            prizeName: "RE 2",
+            prizeName: "Resident Evil 2",
             winners: ['alexkushqq','beststreamerintheworld','caxp_caxp','frayz3017','bleakkop','boogaboss','DokerStim','dragurisan','egnaio','elnar88','ForFarm','fortesque_msk','Holings','iiiipenguiniiii','kawa_blelele','Koryholog','Majerido','marabern','morgan008','muxaspb89']
         },{
-            prizeName: "DMC 5",
+            prizeName: "Devil May Cry 5",
             winners: ['nharein','obmorok7','PahomChik0','pisyapoperek','reinoj','RockAngel444','soulFAQ','ssh_qz','ThesaurusAvatan','uninie','Vishenka_Cherry','Aleksasandr','DlTRIH','ikonoskop','l0Dnl','LeoAlexsonStream','M__S__L','PontiST','sushion','x345']
         }]
     },
     {
         contestName: "Конкурс #11",
         prizes: [{
-            prizeName: "20 Outer Worlds и 250 промокодов на один месяц Игрового.",
+            prizeName: "20 Outer Worlds и 250 промокодов на один месяц Игрового",
             winners: ['9999999999acid999999999','affatograf','ConstaFun','egnaio','helmars','Koryholog','LeBomjareaux','Majerido','MEGARIP','mirakari','obmorok7','stufmgn','BuzzGamer','elnar88','just__caxapok','paskuda149','xxx2pro']
         }]
     },
     {
         contestName: "Конкурс #12",
         prizes: [{
-            prizeName: "20 шт Far Cry New Dawn",
+            prizeName: "Far Cry New Dawn",
             winners: ['stufmgn','Rew1l','peepoSprint','InFaill','goggi_din','affatograf','Abyss_Wat4ers','xxx2pro','Tubock','tat18','suspektos','Rom_STARK','Pofigist_','oxotnik_na_naturalov','nikolaiturist','Neamneam','MrDarkWlastelin','Miloel','kvaz_ar','kit_deck3r']
         },
         {
@@ -103,11 +103,11 @@ export const contestData = [
         contestName: "Конкурс #13",
         prizes: [
             {
-            prizeName: '8 гарнитур "Steelseries Arctis Raw"',
+            prizeName: 'Гарнитура "Steelseries Arctis Raw"',
             winners: ['affatograf','beststreamerintheworld','dzlo','ekzoversi_','frayz3017','InFaill','kasssl28','kit_deck3r']
         },
         {
-            prizeName: '30 мышек "A4Tech Bloody V7 Black"',
+            prizeName: 'Мышка "A4Tech Bloody V7 Black"',
             winners: ['LeBomjareaux','PahomChik0','pretty1ee','Staleks','Supershuran','tat18','1_pando','4aroki_bad_noy','9999999999acid999999999','Abyss_Wat4ers','Aggressive04','Akella_123','AleKov','Alex____xelA','AlexFAS29','alexkushqq','alfayurez','alichant','AlRomex','Alyron','Aplouder','arcee550','arl3nd','Artem94','ASAGIUS','Buyter71','bZdiggeR','c0011er','CA1N_TV','cossacktaras','Crab_gaming']
         },
         {
