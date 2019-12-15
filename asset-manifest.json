@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/SergeSokolan/new-year-gamer/static/css/main.75984737.chunk.css",
-    "main.js": "/SergeSokolan/new-year-gamer/static/js/main.e96278ae.chunk.js",
-    "main.js.map": "/SergeSokolan/new-year-gamer/static/js/main.e96278ae.chunk.js.map",
-    "runtime-main.js": "/SergeSokolan/new-year-gamer/static/js/runtime-main.67fa74c8.js",
-    "runtime-main.js.map": "/SergeSokolan/new-year-gamer/static/js/runtime-main.67fa74c8.js.map",
-    "static/css/2.764ccc25.chunk.css": "/SergeSokolan/new-year-gamer/static/css/2.764ccc25.chunk.css",
-    "static/js/2.5497271d.chunk.js": "/SergeSokolan/new-year-gamer/static/js/2.5497271d.chunk.js",
-    "static/js/2.5497271d.chunk.js.map": "/SergeSokolan/new-year-gamer/static/js/2.5497271d.chunk.js.map",
-    "index.html": "/SergeSokolan/new-year-gamer/index.html",
-    "precache-manifest.ae9ff35be1f50c25ebf718e407a4367a.js": "/SergeSokolan/new-year-gamer/precache-manifest.ae9ff35be1f50c25ebf718e407a4367a.js",
-    "service-worker.js": "/SergeSokolan/new-year-gamer/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/SergeSokolan/new-year-gamer/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.75984737.chunk.css.map": "/SergeSokolan/new-year-gamer/static/css/main.75984737.chunk.css.map",
-    "static/js/2.5497271d.chunk.js.LICENSE": "/SergeSokolan/new-year-gamer/static/js/2.5497271d.chunk.js.LICENSE",
-    "static/media/index.css": "/SergeSokolan/new-year-gamer/static/media/subset-RostelecomBasis-Regular.c4db2e2f.ttf",
-    "static/media/App.css": "/SergeSokolan/new-year-gamer/static/media/logo.6dbb4c2c.png"
+    "main.css": "/new-year-gamer/static/css/main.8df4663b.chunk.css",
+    "main.js": "/new-year-gamer/static/js/main.e96278ae.chunk.js",
+    "main.js.map": "/new-year-gamer/static/js/main.e96278ae.chunk.js.map",
+    "runtime-main.js": "/new-year-gamer/static/js/runtime-main.6b593f6e.js",
+    "runtime-main.js.map": "/new-year-gamer/static/js/runtime-main.6b593f6e.js.map",
+    "static/css/2.764ccc25.chunk.css": "/new-year-gamer/static/css/2.764ccc25.chunk.css",
+    "static/js/2.5497271d.chunk.js": "/new-year-gamer/static/js/2.5497271d.chunk.js",
+    "static/js/2.5497271d.chunk.js.map": "/new-year-gamer/static/js/2.5497271d.chunk.js.map",
+    "index.html": "/new-year-gamer/index.html",
+    "precache-manifest.de223c4b0687cf06025947ad44d280ef.js": "/new-year-gamer/precache-manifest.de223c4b0687cf06025947ad44d280ef.js",
+    "service-worker.js": "/new-year-gamer/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/new-year-gamer/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.8df4663b.chunk.css.map": "/new-year-gamer/static/css/main.8df4663b.chunk.css.map",
+    "static/js/2.5497271d.chunk.js.LICENSE": "/new-year-gamer/static/js/2.5497271d.chunk.js.LICENSE",
+    "static/media/index.css": "/new-year-gamer/static/media/subset-RostelecomBasis-Regular.c4db2e2f.ttf",
+    "static/media/App.css": "/new-year-gamer/static/media/logo.6dbb4c2c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.67fa74c8.js",
+    "static/js/runtime-main.6b593f6e.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.5497271d.chunk.js",
-    "static/css/main.75984737.chunk.css",
+    "static/css/main.8df4663b.chunk.css",
     "static/js/main.e96278ae.chunk.js"
   ]
 }
