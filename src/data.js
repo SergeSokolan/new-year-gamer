@@ -26,7 +26,7 @@ export const contestData = [
     {
         contestName: "Конкурс #4",
         prizes: [{
-            prizeName: "250 промо-кодов на месяц от GFN",
+            prizeName: "Промокоды GFN",
             winners: ['kit_deck3r','1President','al_tar_spb','alexkushqq','AnanasKokosov','cassga','cherrydwenn','danilkogood','defolt_wizard','dogegogego','duck__radical','dzlo','Eldrig','foximilyann','frayz3017','Gillenormand','Grubozhor','heyhoo','InFaill','jackyjenya','Jecards','Jlec9','karmic_pantheon','KilgunKing','lux_fray','Majerido','Maxim_pin','Mr_LeeR0y','muxaspb89','myrrrmyrmeow','Nick_TIRONE','o_my_god_','Odeyalko200x220','PahomChik0','pcix245','PontiST','sarcasm2000','ShrodingerKota','slon18','son4l','stream4g','tat18','tayswiftys13','TelRoad','voltcolt','whatjusthappened','9999999999acid999999999','dana_miloradova','mellander_','orion11111111','sniks610','cova66','im66x8','puh_ru','Rognarion','sanelmen','Veyrlein','Aggressive04','crazy_cehceu','k7ulhu','FaLaMyRTV','Sond_sim','klomovtyr','gigi_0128','dang3r1']
         }]
     },
@@ -84,7 +84,7 @@ export const contestData = [
     {
         contestName: "Конкурс #11",
         prizes: [{
-            prizeName: "20 Outer Worlds и 250 промокодов на один месяц Игрового",
+            prizeName: "Outer Worlds и промокод на месяц Игрового",
             winners: ['9999999999acid999999999','affatograf','ConstaFun','egnaio','helmars','Koryholog','LeBomjareaux','Majerido','MEGARIP','mirakari','obmorok7','stufmgn','BuzzGamer','elnar88','just__caxapok','paskuda149','xxx2pro']
         }]
     },
@@ -95,7 +95,7 @@ export const contestData = [
             winners: ['stufmgn','Rew1l','peepoSprint','InFaill','goggi_din','affatograf','Abyss_Wat4ers','xxx2pro','Tubock','tat18','suspektos','Rom_STARK','Pofigist_','oxotnik_na_naturalov','nikolaiturist','Neamneam','MrDarkWlastelin','Miloel','kvaz_ar','kit_deck3r']
         },
         {
-            prizeName: "250 промокодов на 1 месяц Игрового",
+            prizeName: "Промокод на месяц Игрового",
             winners: ['kawa_blelele','kasssl28','ggYanD','ForFarm','Ed_Amosha','duck__radical','dragurisan','dark_defense73180','Bloodbrother55','aventor','antixpist87','Akella_123','Zarryba','STREAMDB_RU','Mutabor_Shooter','LeoAlexsonStream']
         }]
     },
@@ -111,7 +111,7 @@ export const contestData = [
             winners: ['LeBomjareaux','PahomChik0','pretty1ee','Staleks','Supershuran','tat18','1_pando','4aroki_bad_noy','9999999999acid999999999','Abyss_Wat4ers','Aggressive04','Akella_123','AleKov','Alex____xelA','AlexFAS29','alexkushqq','alfayurez','alichant','AlRomex','Alyron','Aplouder','arcee550','arl3nd','Artem94','ASAGIUS','Buyter71','bZdiggeR','c0011er','CA1N_TV','cossacktaras','Crab_gaming']
         },
         {
-            prizeName: '300 промокодов на месяц Игрового',
+            prizeName: 'Промокод на месяц Игрового',
             winners: ['DerzkiyKote','DlTRIH','dmev_','doctorwho2023','DokerStim','dragurisan','DreamerSuns','DSLow','eczor360','Ed_Amosha','egnaio','Eldrig','elnar88','EMOBLAZE','f0resstnc','gogiman','Grin01','Grubozhor','He_Zzzz','helmars','Iriline','itSFoxTV','itsUncleBob','Jenya86','jimber3000','kawa_blelele','KILLER_Tank','klomovtyr','KotGeneral','kvashnyaa','Lefsha','Lemko505','LeoAlexsonStream','lex_vertigo','LOLKEK1579','lololo1341','Lootos812','love_saxon','LUCKY_SAM','machete1000','madO_oHatter','marabern','maxvel_informal','MEGARIP','Melross','Miloel','MrDarkWlastelin','MrPlever','mrredbeat','Mutabor_Shooter','muxaspb89','Mysticmk','namestnikate','Nerkann','ngaare','Nightylion','nyuta_live','orion11111111','owlstyle','Pedalka23','peepoSprint','Perfecti0nist','redjenny27','Rew1l','rizzraq','Rom_STARK','Romance71ru','sanches05','Sharmanka29','sniks610','ssh_qz','stream4g','STREAMDB_RU','swbk_ua','TonyStarkVit','Valdimarr_','vlad_riashentsev','Vol4an','whatjusthappened','Wonny_The_Pooh','Ximinary','yurka999','Z__End','Zarryba','ZloyDei','Eppo_','Grai_ice','Hankmud1','percival_unt','Usunar','xxx2pro']
         }
     ]
@@ -119,7 +119,7 @@ export const contestData = [
     {
         contestName: "Конкурс #14",
         prizes: [{
-            prizeName: "300 промокодов на месяц Игрового",
+            prizeName: "Промокод на месяц Игрового",
             winners: ['10Cb','4aroki_bad_noy','Abyss_Wat4ers','affatograf','Akella_123','AleKov','aleshq1a','Alex____xelA','AlexFAS29','alexkushqq','alfayurez','alichant','alimchic412','AlRomex','Alyron','anime_otstoi','Aplouder','arcee550','arl3nd','Artem94','autumn_rain1_','beststreamerintheworld','bettler','boogaboss','BuzzGamer','bZdiggeR','c0011er','C4udilo','caxp_caxp','Cnukup','Condoren','ConstaFun','controlemotion','Crab_gaming','Dambld00r','dark_defense73180','Dashulyaa','Denis_Peskov','DerzkiyKote','dez1us','dmev_','doctorwho2023','DokerStim','DR_Vasyan','dragurisan','DreamerSuns','duck__radical','dzlo','eczor360','Ed_Amosha','ekzoversi_','Eldrig','elnar88','EMOBLAZE','fertonok','ForFarm','frayz3017','gill_haris','girl_loves_olyashaa','Gizmo__Duck','GODLIDER','Grai_ice','Grin01','haimeyo','helmars','iiiipenguiniiii','iMisao','InFaill','itSFoxTV','jimber3000','karmic_pantheon','kasssl28','kit_deck3r','Ksushagg','kvashnyaa','kvaz_ar','LeBomjareaux','LeoAlexsonStream','lex_vertigo','liloldmen','Lirim_Tsar','LOLKEK1579','lololo1341','Lootos812','love_saxon','madO_oHatter','Makc2312','mellander_','Melross','Miloel','mirakari','morgan008','MrDarkWlastelin','MrPlever','muxaspb89','Mysticmk','namestnikate','NaYkoN','Nerkann','ngaare','Nick_TIRONE','Nikitime','NoNameWfc','obmorok7','Odeyalko200x220','OFF__ON__','orion11111111','owlstyle','oxotnik_na_naturalov','Pachella','PahomChik0','percival_unt','Perfecti0nist','Pofigist_','PontiST','pretty1ee','princessintears','pustota0','redjenny27','renoske1ez','rizzraq','RockAngel444','Rom_STARK','Romance71ru','sanches05','sarcasm2000','savokat','sergey7287','SET_blaster_a220_i5_d1','Sharmanka29','soulFAQ','ssh_qz','Staleks','Stawr74','STREAMDB_RU','Supershuran','swbk_ua','tat18','thebestcoment','TonyStarkVit','Tubock','Ukkaronn','Usunar','voinenot','volidolik','whatjusthappened','WiSK23','Wonny_The_Pooh','xaxaxaaa','Ximinary','xxx2pro','yoshkina_koshka','yurka999','Zarryba']
         }]
     },
